@@ -92,13 +92,10 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
-
-![Octocat](concept02_wide_regular_boxes_james_ok (1).jpg)
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](concept02_wide_regular_boxes_james_ok (1).jpg)
 
 
 ### Definition lists can be used with HTML syntax.
