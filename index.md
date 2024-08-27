@@ -94,7 +94,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](concept02_wide_regular_boxes_james_ok (1).jpg)
 
 ### Large image
 
